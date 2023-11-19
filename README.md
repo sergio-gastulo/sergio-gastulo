@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergio-gastulo.
 - 👀 I’m interested in data science, data analysis and statistics.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Pure Maths at UNI and Machine Learning by myself.
 - 💞️ I’m looking to collaborate on projects related to these areas.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sergio-gastulo/).
 
